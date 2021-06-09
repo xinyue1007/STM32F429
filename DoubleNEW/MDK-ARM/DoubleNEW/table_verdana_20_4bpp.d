@@ -1,0 +1,10 @@
+doublenew\table_verdana_20_4bpp.o: ../touchgfx/generated/fonts/src/table_verdana_20_4bpp.cpp
+doublenew\table_verdana_20_4bpp.o: ../touchgfx/generated/fonts/include/fonts/GeneratedFont.hpp
+doublenew\table_verdana_20_4bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/ConstFont.hpp
+doublenew\table_verdana_20_4bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Font.hpp
+doublenew\table_verdana_20_4bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/Unicode.hpp
+doublenew\table_verdana_20_4bpp.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+doublenew\table_verdana_20_4bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Types.hpp
+doublenew\table_verdana_20_4bpp.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+doublenew\table_verdana_20_4bpp.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+doublenew\table_verdana_20_4bpp.o: ../middlewares/st/touchgfx/framework/include/touchgfx/hal/Config.hpp

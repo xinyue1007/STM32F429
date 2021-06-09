@@ -1,0 +1,14 @@
+Kerning_verdana_20_4bpp.pbi: \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\TouchGFX\generated\fonts\src\Kerning_verdana_20_4bpp.cpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Font.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Unicode.hpp \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdarg.h \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Types.hpp \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\assert.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Config.hpp

@@ -1,0 +1,40 @@
+Texts.pbi: \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\TouchGFX\generated\texts\src\Texts.cpp \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdarg.h \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../TouchGFX/generated/texts/include\texts/TypedTextDatabase.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Types.hpp \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\assert.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Config.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/TypedText.hpp \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\cpp\cassert \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Font.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Unicode.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Texts.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/TextProvider.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/HAL.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Bitmap.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Drawable.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Application.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/UIEventListener.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/events/ClickEvent.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Event.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/events/DragEvent.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/events/GestureEvent.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/lcd/LCD.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/TextureMapTypes.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Utils.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/Callback.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/BlitOp.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/DMA.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Atomic.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/FrameBufferAllocator.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Gestures.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\platform/core/MCUInstrumentation.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\platform/driver/button/ButtonController.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\platform/driver/touch/TouchController.hpp

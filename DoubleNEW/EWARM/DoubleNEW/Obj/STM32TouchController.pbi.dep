@@ -1,0 +1,13 @@
+STM32TouchController.pbi: \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\TouchGFX\target\STM32TouchController.cpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\TouchGFX\target\STM32TouchController.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\platform/driver/touch/TouchController.hpp \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Types.hpp \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\assert.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  E:\word\MySelfF429\STM32F429\DoubleNEW\EWARM/../Middlewares/ST/touchgfx/framework/include\touchgfx/hal/Config.hpp
