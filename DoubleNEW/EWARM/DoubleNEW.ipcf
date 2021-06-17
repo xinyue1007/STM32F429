@@ -49,7 +49,6 @@
       </group>
       <group name="images">
         <path>$PROJ_DIR$/../TouchGFX/generated/images/src/__designer/image_Blue_Buttons_Round_Edge_small.cpp</path>
-        <path>$PROJ_DIR$/../TouchGFX/generated/images/src/__designer/image_Blue_Buttons_Round_Edge_small_pressed.cpp</path>
         <path>$PROJ_DIR$/../TouchGFX/generated/images/src/BitmapDatabase.cpp</path>
       </group>
       <group name="texts">

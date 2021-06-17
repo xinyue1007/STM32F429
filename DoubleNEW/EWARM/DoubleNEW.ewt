@@ -1198,7 +1198,22 @@
             <group>
                 <name>Core</name>
                 <file>
+                    <name>$PROJ_DIR$\..\Core\Src\crc.c</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Core\Src\dma2d.c</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Core\Src\fmc.c</name>
+                </file>
+                <file>
                     <name>$PROJ_DIR$\..\Core\Src\freertos.c</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Core\Src\gpio.c</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Core\Src\ltdc.c</name>
                 </file>
                 <file>
                     <name>$PROJ_DIR$\..\Core\Src\main.c</name>
@@ -1211,6 +1226,12 @@
                 </file>
                 <file>
                     <name>$PROJ_DIR$\..\Core\Src\stm32f4xx_it.c</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Core\Src\tim.c</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Core\Src\usart.c</name>
                 </file>
             </group>
             <group>
@@ -1436,9 +1457,6 @@
                 </file>
                 <file>
                     <name>$PROJ_DIR$\..\TouchGFX\generated\images\src\__designer\image_Blue_Buttons_Round_Edge_small.cpp</name>
-                </file>
-                <file>
-                    <name>$PROJ_DIR$\..\TouchGFX\generated\images\src\__designer\image_Blue_Buttons_Round_Edge_small_pressed.cpp</name>
                 </file>
             </group>
             <group>

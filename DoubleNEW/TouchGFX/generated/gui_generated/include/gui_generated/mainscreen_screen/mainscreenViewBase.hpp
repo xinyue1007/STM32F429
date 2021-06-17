@@ -28,6 +28,8 @@ protected:
     touchgfx::Box __background;
     touchgfx::Box box1;
     touchgfx::ButtonWithLabel mainbuttonWithLabel;
+    touchgfx::Box box2;
+    touchgfx::Box box3;
 
 private:
 

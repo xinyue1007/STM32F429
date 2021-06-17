@@ -92,7 +92,6 @@ build FrontendApplicationBase.pbi : index FrontendApplicationBase.xcl
 build mainscreenViewBase.pbi : index mainscreenViewBase.xcl
 build BitmapDatabase.pbi : index BitmapDatabase.xcl
 build image_Blue_Buttons_Round_Edge_small.pbi : index image_Blue_Buttons_Round_Edge_small.xcl
-build image_Blue_Buttons_Round_Edge_small_pressed.pbi : index image_Blue_Buttons_Round_Edge_small_pressed.xcl
 build LanguageGb.pbi : index LanguageGb.xcl
 build Texts.pbi : index Texts.xcl
 build TypedTextDatabase.pbi : index TypedTextDatabase.xcl
@@ -108,7 +107,7 @@ build DoubleNEW_part4.pbi : link stm32f4xx_hal_pwr_ex.pbi stm32f4xx_hal_rcc.pbi 
 build DoubleNEW_part5.pbi : link croutine.pbi event_groups.pbi heap_4.pbi list.pbi port.pbi queue.pbi stream_buffer.pbi tasks.pbi timers.pbi
 build DoubleNEW_part6.pbi : link ApplicationFontProvider.pbi CachedFont.pbi Font_verdana_10_4bpp_0.pbi Font_verdana_20_4bpp_0.pbi Font_verdana_40_4bpp_0.pbi FontCache.pbi GeneratedFont.pbi Kerning_verdana_10_4bpp.pbi Kerning_verdana_20_4bpp.pbi
 build DoubleNEW_part7.pbi : link Kerning_verdana_40_4bpp.pbi Table_verdana_10_4bpp.pbi Table_verdana_20_4bpp.pbi Table_verdana_40_4bpp.pbi UnmappedDataFont.pbi FrontendApplicationBase.pbi mainscreenViewBase.pbi BitmapDatabase.pbi image_Blue_Buttons_Round_Edge_small.pbi
-build DoubleNEW_part8.pbi : link image_Blue_Buttons_Round_Edge_small_pressed.pbi LanguageGb.pbi Texts.pbi TypedTextDatabase.pbi FrontendApplication.pbi mainscreenPresenter.pbi mainscreenView.pbi Model.pbi
+build DoubleNEW_part8.pbi : link LanguageGb.pbi Texts.pbi TypedTextDatabase.pbi FrontendApplication.pbi mainscreenPresenter.pbi mainscreenView.pbi Model.pbi
 build DoubleNEW.pbd : link DoubleNEW_part0.pbi DoubleNEW_part1.pbi DoubleNEW_part2.pbi DoubleNEW_part3.pbi DoubleNEW_part4.pbi DoubleNEW_part5.pbi DoubleNEW_part6.pbi DoubleNEW_part7.pbi DoubleNEW_part8.pbi
 build DoubleNEW.pbw : browsedata DoubleNEW.pbd
 

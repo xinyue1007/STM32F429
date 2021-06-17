@@ -6,16 +6,16 @@
           {
             "Type": "Box",
             "Color": {
-              "Red": 0,
-              "Green": 255,
-              "Blue": 255
+              "Red": 255,
+              "Green": 0,
+              "Blue": 0
             },
             "Alpha": 255,
             "Name": "box1",
             "X": 0,
             "Y": 0,
             "Width": 272,
-            "Height": 480,
+            "Height": 174,
             "Visible": true,
             "LockPosition": false,
             "Draggable": false,
@@ -25,7 +25,7 @@
           },
           {
             "Type": "ButtonWithLabel",
-            "Pressed": "__designer\\Blue_Buttons_Round_Edge_small_pressed.png",
+            "Pressed": "__designer\\Blue_Buttons_Round_Edge_small.png",
             "Released": "__designer\\Blue_Buttons_Round_Edge_small.png",
             "Alpha": 255,
             "TextId": "SingleUseId1",
@@ -40,12 +40,51 @@
               "Blue": 255
             },
             "TextRotation": "0",
-            "Style": "Style4",
             "Name": "mainbuttonWithLabel",
-            "X": 51,
-            "Y": 210,
+            "X": 60,
+            "Y": 50,
             "Width": 170,
             "Height": 60,
+            "Visible": true,
+            "LockPosition": false,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Type": "Box",
+            "Color": {
+              "Red": 0,
+              "Green": 255,
+              "Blue": 0
+            },
+            "Alpha": 255,
+            "Name": "box2",
+            "X": 1,
+            "Y": 174,
+            "Width": 271,
+            "Height": 144,
+            "Visible": true,
+            "LockPosition": false,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Type": "Box",
+            "Color": {
+              "Red": 0,
+              "Green": 0,
+              "Blue": 255
+            },
+            "Alpha": 255,
+            "Name": "box3",
+            "X": 0,
+            "Y": 318,
+            "Width": 272,
+            "Height": 162,
             "Visible": true,
             "LockPosition": false,
             "Draggable": false,
